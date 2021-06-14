@@ -14,7 +14,7 @@ The way to use this is by one of two comands:
   
 2. Query the ontology by using ./python3 geo_qa.py question “<natural language question string>”
   Where “<natural language question string>” is one of the following:
-  (i) Who is the president of <country>?
+  (i) Who is the president of <<country>>?
   (ii) Who is the prime minister of <country>?
   (iii) What is the population of <country>?
   (iv) What is the area of <country>?
