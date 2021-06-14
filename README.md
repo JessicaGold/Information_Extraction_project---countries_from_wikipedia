@@ -24,5 +24,5 @@ The way to use this is by one of two comands:
   (viii) When was the prime minister of "some_country" born?
   (ix) Who is "some_entity"?
   
-  "some_entity" refers to a leader of a country
+  where "some_entity" refers to a leader of a country
 
