@@ -2,6 +2,7 @@
 
 This program extracts information from the countries table at
 https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)
+The code is correct as of 13 Jul 2020, if changes were made to the wikipedia page since - changes might be needed for the extraction code as well.
 
 The information is then stored to a local file as an ontology.
 
