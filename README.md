@@ -12,17 +12,17 @@ The way to use this is by one of two comands:
   Obviously, you need to be conected to the internet for this.
   This part of the program takes 10-20 minutes to run.
   
-2. Query the ontology by using ./python3 geo_qa.py question “<natural language question string>”
-  Where “<natural language question string>” is one of the following:
-  (i) Who is the president of <<country>>?
-  (ii) Who is the prime minister of <country>?
-  (iii) What is the population of <country>?
-  (iv) What is the area of <country>?
-  (v) What is the government of <country>?
-  (vi) What is the capital of <country>?
-  (vii) When was the president of <country> born?
-  (viii) When was the prime minister of <country> born?
-  (ix) Who is <entity>?
+2. Query the ontology by using ./python3 geo_qa.py question “natural language question string”
+  Where “natural language question string” is one of the following:
+  (i) Who is the president of "some_country"?
+  (ii) Who is the prime minister of "some_country"?
+  (iii) What is the population of "some_country"?
+  (iv) What is the area of "some_country"?
+  (v) What is the government of "some_country"?
+  (vi) What is the capital of "some_country"?
+  (vii) When was the president of "some_country" born?
+  (viii) When was the prime minister of "some_country" born?
+  (ix) Who is "some_entity"?
   
-  <entity> refers to a leader of a country
+  "some_entity" refers to a leader of a country
 
